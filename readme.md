@@ -1,15 +1,9 @@
 # Ruta de aprendizaje de Javascript 🚀
 
 ### 1. **Introducción a JavaScript**
-- Historia y Evolución de JavaScript
-    - Creación y primeras versiones
-    - ECMAScript Standard
-- Configuración del Entorno de Desarrollo
-    - Editores de texto y IDEs
-    - Extensiones y plugins
 - Sintaxis Básica
-    - Palabras reservadas
-    - Estructura de un programa
+    - [Palabras reservadas](/temario/01-introduccion/01-palabras-reservadas.md)
+    - [Estructura de un programa](/temario/01-introduccion/02-estructura-de-un-programa.md)
 - Comentarios
     - Comentarios de una línea
     - Comentarios multi linea
