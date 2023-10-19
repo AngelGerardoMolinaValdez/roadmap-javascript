@@ -5,8 +5,8 @@
     - [Palabras reservadas](/temario/01-introduccion/01-palabras-reservadas.md)
     - [Estructura de un programa](/temario/01-introduccion/02-estructura-de-un-programa.md)
 - Comentarios
-    - Comentarios de una línea
-    - Comentarios multi linea
+    - [Comentarios de una línea](./temario/01-introduccion/03-comentarios-en-una-linea.md)
+    - [Comentarios multi linea](./temario/01-introduccion/04-comentarios-multilinea.md)
 - Consola de JavaScript
     - Logs
     - Errores y advertencias
