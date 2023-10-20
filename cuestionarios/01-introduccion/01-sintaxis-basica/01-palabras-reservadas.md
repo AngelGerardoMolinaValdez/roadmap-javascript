@@ -23,6 +23,6 @@ function calcular() {
 }
 ```
 
-[⏪ Ir al temario](../../temario/01-introduccion/01-palabras-reservadas.md)
+[⏪ Ir al temario](../../../temario/01-introduccion/01-sintaxis-basica/01-palabras-reservadas.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)
