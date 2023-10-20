@@ -8,8 +8,8 @@
     - [Comentarios de una línea](./temario/01-introduccion/03-comentarios-en-una-linea.md)
     - [Comentarios multi linea](./temario/01-introduccion/04-comentarios-multilinea.md)
 - Consola de JavaScript
-    - Logs
-    - Errores y advertencias
+    - [Logs](./temario/01-introduccion/05-logs.md)
+    - [Errores y advertencias](./temario/01-introduccion/06-errores-y-advertencias.md)
 
 ### 2. **Variables y Tipos de Datos**
 - Declaración de Variables (var, let, const)
