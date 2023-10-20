@@ -30,6 +30,6 @@ Similar a los logs normales, es una buena práctica desactivar o minimizar los m
 
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/API/console#:~:text=%23%20%E3%80%900%E2%80%A0console%20,API%20differently%20than%20the%20browsers)
 
-[⏪ Ir al cuestionario](../../cuestionarios/01-introduccion/06-errores-y-advertencias.md)
+[⏪ Ir al cuestionario](../../../cuestionarios/01-introduccion/03-consola-de-javascript/06-errores-y-advertencias.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)

@@ -28,6 +28,6 @@ Los comentarios multi línea son una herramienta valiosa para mantener el códig
 ## Referencias
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript#comments)
 
-[⏪ Ir al cuestionario](../../cuestionarios/01-introduccion/04-comentarios-multilinea.md)
+[⏪ Ir al cuestionario](../../../cuestionarios/01-introduccion/02-comentarios/04-comentarios-multilinea.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)

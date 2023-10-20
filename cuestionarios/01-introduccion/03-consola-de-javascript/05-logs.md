@@ -21,6 +21,6 @@ Menciona otros dos métodos del objeto `console` aparte de `console.log()` y exp
 ## Diferenciación
 ¿Qué diferencias hay entre `console.log()`, `console.warn()` y `console.error()` en términos de salida en la consola?
 
-[⏪ Ir al temario](../../temario/01-introduccion/05-logs.md)
+[⏪ Ir al temario](../../../temario/01-introduccion/03-consola-de-javascript/05-logs.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)

@@ -17,6 +17,6 @@
 **5. Eventos:**
    - ¿Qué permiten hacer los eventos en JavaScript?
 
-[⏪ Ir al temario](../../temario/01-introduccion/02-estructura-de-un-programa.md)
+[⏪ Ir al temario](../../../temario/01-introduccion/01-sintaxis-basica/02-estructura-de-un-programa.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)

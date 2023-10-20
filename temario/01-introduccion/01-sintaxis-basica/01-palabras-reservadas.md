@@ -30,6 +30,6 @@ Es crucial entender y respetar el uso de estas palabras reservadas para escribir
 # Referencias
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar)
 
-[⏪ Ir al cuestionario](../../cuestionarios/01-introduccion/01-palabras-reservadas.md)
+[⏪ Ir al cuestionario](../../../cuestionarios/01-introduccion/01-sintaxis-basica/01-palabras-reservadas.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)

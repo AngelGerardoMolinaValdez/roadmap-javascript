@@ -28,6 +28,6 @@ Es conveniente eliminar o desactivar los logs en la versión de producción para
 
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/API/console#:~:text=js%20console.log%28,API%20differently%20than%20the%20browsers)
 
-[⏪ Ir al cuestionario](../../cuestionarios/01-introduccion/05-logs.md)
+[⏪ Ir al cuestionario](../../../cuestionarios/01-introduccion/03-consola-de-javascript/05-logs.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)

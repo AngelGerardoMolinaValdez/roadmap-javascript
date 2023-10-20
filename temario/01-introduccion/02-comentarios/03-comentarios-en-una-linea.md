@@ -35,6 +35,6 @@ Los comentarios de una línea son una forma simple y efectiva de documentar el c
 ## Referencias
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript#comments)
 
-[⏪ Ir al cuestionario](../../cuestionarios/01-introduccion/03-comentarios-en-una-linea.md)
+[⏪ Ir al cuestionario](../../../cuestionarios/01-introduccion/02-comentarios/03-comentarios-en-una-linea.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)

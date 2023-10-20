@@ -26,6 +26,6 @@
 ## Aplicación Práctica
 Proporciona un ejemplo de cómo podrías utilizar `console.error()` y `console.warn()` en un script de JavaScript para identificar y resolver problemas.
 
-[⏪ Ir al temario](../../temario/01-introduccion/06-errores-y-advertencias.md)
+[⏪ Ir al temario](../../../temario/01-introduccion/03-consola-de-javascript/06-errores-y-advertencias.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)

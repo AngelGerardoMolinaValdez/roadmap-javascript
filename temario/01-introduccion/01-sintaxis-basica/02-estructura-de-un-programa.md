@@ -79,6 +79,6 @@ Estos componentes se pueden organizar de diversas maneras para formar un program
 
 **NOTA:** Todos estos temas los veremos a profundidad en los próximos capítulos
 
-[⏪ Ir al cuestionario](../../cuestionarios/01-introduccion/02-estructura-de-un-programa.md)
+[⏪ Ir al cuestionario](../../../cuestionarios/01-introduccion/01-sintaxis-basica/02-estructura-de-un-programa.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)

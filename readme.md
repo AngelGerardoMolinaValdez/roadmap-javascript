@@ -2,14 +2,14 @@
 
 ### 1. **Introducción a JavaScript**
 - Sintaxis Básica
-    - [Palabras reservadas](/temario/01-introduccion/01-palabras-reservadas.md)
-    - [Estructura de un programa](/temario/01-introduccion/02-estructura-de-un-programa.md)
+    - [Palabras reservadas](/temario/01-introduccion/01-sintaxis-basica/01-palabras-reservadas.md)
+    - [Estructura de un programa](/temario/01-introduccion/01-sintaxis-basica/02-estructura-de-un-programa.md)
 - Comentarios
-    - [Comentarios de una línea](./temario/01-introduccion/03-comentarios-en-una-linea.md)
-    - [Comentarios multi linea](./temario/01-introduccion/04-comentarios-multilinea.md)
+    - [Comentarios de una línea](./temario/01-introduccion/02-comentarios/03-comentarios-en-una-linea.md)
+    - [Comentarios multi linea](./temario/01-introduccion/02-comentarios/04-comentarios-multilinea.md)
 - Consola de JavaScript
-    - [Logs](./temario/01-introduccion/05-logs.md)
-    - [Errores y advertencias](./temario/01-introduccion/06-errores-y-advertencias.md)
+    - [Logs](./temario/01-introduccion/03-consola-de-javascript/05-logs.md)
+    - [Errores y advertencias](./temario/01-introduccion/03-consola-de-javascript/06-errores-y-advertencias.md)
 
 ### 2. **Variables y Tipos de Datos**
 - Declaración de Variables (var, let, const)

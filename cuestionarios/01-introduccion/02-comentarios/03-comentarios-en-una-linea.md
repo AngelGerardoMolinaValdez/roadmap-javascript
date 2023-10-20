@@ -15,6 +15,6 @@ Menciona una buena práctica al escribir comentarios de una línea en JavaScript
 ## Comentarios Vs Código
 ¿Cómo afectan los comentarios de una línea a la ejecución del código en JavaScript?
 
-[⏪ Ir al temario](../../temario/01-introduccion/03-comentarios-en-una-linea.md)
+[⏪ Ir al temario](../../../temario/01-introduccion/02-comentarios/03-comentarios-en-una-linea.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)

@@ -15,6 +15,6 @@
 ## Comparación
 Menciona una diferencia entre los comentarios de una línea y los comentarios multi línea en JavaScript.
 
-[⏪ Ir al temario](../../temario/01-introduccion/04-comentarios-multilinea.md)
+[⏪ Ir al temario](../../../temario/01-introduccion/02-comentarios/04-comentarios-multilinea.md)
 
-[🏡 Volver al inicio](../../readme.md)
+[🏡 Volver al inicio](../../../readme.md)
