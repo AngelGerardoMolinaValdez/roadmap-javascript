@@ -56,17 +56,21 @@ console.log(hoistedVar); // Logs 'undefined'
 var hoistedVar = 'I am hoisted';
 ```
 
-# Conclusiones
+## Conclusiones
 La comprensión del alcance y el hoisting es importante para evitar errores y escribir código predecible y mantenible. Es aconsejable utilizar `let` y `const` en lugar de `var` en código moderno para una mejor claridad y seguridad en el manejo de datos.
 
-# Referencias
+## Referencias
+
 [developer.mozilla.org - Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+
 [developer.mozilla.org - Var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+
 [developer.mozilla.org - Let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+
 [developer.mozilla.org- Const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const?ref=thomasclowes.com)
 
 
-# Cuestionario
+## Cuestionario
 [⏪ Ir al cuestionario](../../cuestionarios/02-variables-y-tipos-de-datos/cuestionario.md)
 
 [🏡 Volver al inicio](../../readme.md)
