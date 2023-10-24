@@ -12,7 +12,8 @@
     - [Errores y advertencias](./temario/01-introduccion/03-consola-de-javascript/06-errores-y-advertencias.md)
 
 ### 2. **Variables y Tipos de Datos**
-- Declaración de Variables (var, let, const)
+- [Variables (var, let, const)](./temario/02-variables-y-tipos-de-datos/readme.md)
+    - Declaración
     - Alcance (Scope)
     - Hoisting
 - Tipos de Datos (Number, String, Boolean, null, undefined, Symbol, Object)
