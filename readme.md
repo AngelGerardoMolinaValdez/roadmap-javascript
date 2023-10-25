@@ -27,9 +27,9 @@
     - [Object](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#Object)
     - [Symbol](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#Symbol)
     - [Conversión entre tipos](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#conversión-entre-tipos-coerción)
-- Conversión de Tipos
-    - Coerción de tipos
-    - Conversión explícita e implícita
+- [Conversión de Tipos](./temario/02-variables-y-tipos-de-datos/conversion-de-tipos.md)
+    - [Conversión explícita](./temario/02-variables-y-tipos-de-datos/conversion-de-tipos.md#coercion-explicita)
+    - [Conversión implícita](./temario/02-variables-y-tipos-de-datos/conversion-de-tipos.md#coercion-implícita)
 
 ### 3. **Operadores**
 - Operadores Aritméticos

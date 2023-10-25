@@ -9,9 +9,6 @@ Enumera los tipos de datos primitivos en JavaScript y proporciona un ejemplo de 
 ## Objetos
 ¿Cómo se define un objeto en JavaScript? Proporciona un ejemplo.
 
-## Conversión de Tipos (Coerción)
-Explica la diferencia entre coerción explícita y coerción implícita, con ejemplos.
-
 ## Diferenciación
 ¿Qué diferencia hay entre `null` y `undefined` en JavaScript?
 
