@@ -13,9 +13,9 @@
 
 ### 2. **Variables y Tipos de Datos**
 - [Variables (var, let, const)](./temario/02-variables-y-tipos-de-datos/readme.md)
-    - Declaración
-    - Alcance (Scope)
-    - Hoisting
+    - [Declaración](./temario/02-variables-y-tipos-de-datos/readme.md#declaración)
+    - [Alcance (Scope)](./temario/02-variables-y-tipos-de-datos/readme.md#alcance-scope)
+    - [Hoisting](./temario/02-variables-y-tipos-de-datos/readme.md#hoisting)
 - Tipos de Datos (Number, String, Boolean, null, undefined, Symbol, Object)
     - Conversión entre tipos
 - Conversión de Tipos
