@@ -32,8 +32,10 @@
     - [Conversión implícita](./temario/02-variables-y-tipos-de-datos/conversion-de-tipos.md#coercion-implícita)
 
 ### 3. **Operadores**
-- Operadores Aritméticos
-    - Operadores unarios y binarios
+- [Operadores Aritméticos](./temario/03-operadores/operadores-aritmeticos.md)
+    - [Aritméticos](./temario/03-operadores/operadores-aritmeticos.md)
+    - [Unarios](./temario/03-operadores/operadores-aritmeticos.md)
+    - [Binarios](./temario/03-operadores/operadores-aritmeticos.md)
 - Operadores de Comparación
     - Comparación estricta y abstracta
 - Operadores Lógicos
