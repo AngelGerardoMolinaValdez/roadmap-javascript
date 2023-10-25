@@ -7,7 +7,6 @@
 Menciona las tres palabras clave utilizadas para declarar variables en JavaScript y da un breve descripción de cada una.
    
 ## Características de `var`
-
 ¿Qué es el "hoisting" y cómo se relaciona con la declaración de variables utilizando `var`?
 
 ¿En qué tipo de ámbito (scope) se declara una variable usando `var`?
