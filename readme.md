@@ -16,8 +16,17 @@
     - [Declaración](./temario/02-variables-y-tipos-de-datos/readme.md#declaración)
     - [Alcance (Scope)](./temario/02-variables-y-tipos-de-datos/readme.md#alcance-scope)
     - [Hoisting](./temario/02-variables-y-tipos-de-datos/readme.md#hoisting)
-- Tipos de Datos (Number, String, Boolean, null, undefined, Symbol, Object)
-    - Conversión entre tipos
+- [Tipos de Datos](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md)
+    - [Primitivos](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#tipos-de-datos-primitivos)
+    - [Compuestos](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#tipos-de-datos-compuestos)
+    - [Number](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#Number)
+    - [String](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#String)
+    - [Boolean](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#Boolean)
+    - [null](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#null)
+    - [undefined](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#undefined)
+    - [Object](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#Object)
+    - [Symbol](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#Symbol)
+    - [Conversión entre tipos](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#conversión-entre-tipos-coerción)
 - Conversión de Tipos
     - Coerción de tipos
     - Conversión explícita e implícita
