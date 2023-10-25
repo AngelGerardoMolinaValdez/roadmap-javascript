@@ -34,6 +34,6 @@ Según la documentación oficial, ¿cuál es la palabra clave recomendada para d
 Proporciona un ejemplo de un error común que se podría cometer al declarar variables y cómo evitarlo.
 
 ## Temario
-[⏪ Ir al temario](../../temario/02-variables-y-tipos-de-datos/readme.md)
+[⏪ Ir al temario](../../temario/02-variables-y-tipos-de-datos/variables-var-let-const.md)
 
 [🏡 Volver al inicio](../../readme.md)

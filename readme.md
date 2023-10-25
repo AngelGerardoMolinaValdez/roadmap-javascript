@@ -12,7 +12,7 @@
     - [Errores y advertencias](./temario/01-introduccion/03-consola-de-javascript/06-errores-y-advertencias.md)
 
 ### 2. **Variables y Tipos de Datos**
-- [Variables (var, let, const)](./temario/02-variables-y-tipos-de-datos/readme.md)
+- [Variables (var, let, const)](./temario/02-variables-y-tipos-de-datos/variables-var-let-const.md)
     - [Declaración](./temario/02-variables-y-tipos-de-datos/readme.md#declaración)
     - [Alcance (Scope)](./temario/02-variables-y-tipos-de-datos/readme.md#alcance-scope)
     - [Hoisting](./temario/02-variables-y-tipos-de-datos/readme.md#hoisting)

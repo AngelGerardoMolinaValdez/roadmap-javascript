@@ -71,6 +71,6 @@ La comprensión del alcance y el hoisting es importante para evitar errores y es
 
 
 ## Cuestionario
-[⏪ Ir al cuestionario](../../cuestionarios/02-variables-y-tipos-de-datos/cuestionario.md)
+[⏪ Ir al cuestionario](../../cuestionarios/02-variables-y-tipos-de-datos/variables-var-let-const.md)
 
 [🏡 Volver al inicio](../../readme.md)
