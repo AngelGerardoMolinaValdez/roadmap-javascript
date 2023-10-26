@@ -13,9 +13,9 @@
 
 ### 2. **Variables y Tipos de Datos**
 - [Variables (var, let, const)](./temario/02-variables-y-tipos-de-datos/variables-var-let-const.md)
-    - [Declaración](./temario/02-variables-y-tipos-de-datos/readme.md#declaración)
-    - [Alcance (Scope)](./temario/02-variables-y-tipos-de-datos/readme.md#alcance-scope)
-    - [Hoisting](./temario/02-variables-y-tipos-de-datos/readme.md#hoisting)
+    - [Declaración](./temario/02-variables-y-tipos-de-datos/variables-var-let-const.md#declaración)
+    - [Alcance (Scope)](./temario/02-variables-y-tipos-de-datos/variables-var-let-const.md#alcance-scope)
+    - [Hoisting](./temario/02-variables-y-tipos-de-datos/variables-var-let-const.md#hoisting)
 - [Tipos de Datos](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md)
     - [Primitivos](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#tipos-de-datos-primitivos)
     - [Compuestos](./temario/02-variables-y-tipos-de-datos/tipos-de-datos.md#tipos-de-datos-compuestos)
