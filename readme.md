@@ -33,9 +33,8 @@
 
 ### 3. **Operadores**
 - [Operadores Aritméticos](./temario/03-operadores/operadores-aritmeticos.md)
-    - [Aritméticos](./temario/03-operadores/operadores-aritmeticos.md)
-    - [Unarios](./temario/03-operadores/operadores-aritmeticos.md)
-    - [Binarios](./temario/03-operadores/operadores-aritmeticos.md)
+    - [Unarios](./temario/03-operadores/operadores-aritmeticos.md#operadores-unarios)
+    - [Binarios](./temario/03-operadores/operadores-aritmeticos.md#operadores-binarios)
 - Operadores de Comparación
     - Comparación estricta y abstracta
 - Operadores Lógicos
