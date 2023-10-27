@@ -35,8 +35,10 @@
 - [Operadores Aritméticos](./temario/03-operadores/operadores-aritmeticos.md)
     - [Unarios](./temario/03-operadores/operadores-aritmeticos.md#operadores-unarios)
     - [Binarios](./temario/03-operadores/operadores-aritmeticos.md#operadores-binarios)
-- Operadores de Comparación
-    - Comparación estricta y abstracta
+- [Operadores de Comparación](./temario/03-operadores/operadores-comparacion.md)
+    - [Tipos](./temario/03-operadores/operadores-comparacion.md#tipos-de-comparación)
+    - [Estricta](./temario/03-operadores/operadores-comparacion.md#comparación-estricta)
+    - [Abstracta](./temario/03-operadores/operadores-comparacion.md#comparación-abstracta)
 - Operadores Lógicos
     - Tablas de verdad
 - Operadores de Asignación
