@@ -39,8 +39,11 @@
     - [Tipos](./temario/03-operadores/operadores-comparacion.md#tipos-de-comparación)
     - [Estricta](./temario/03-operadores/operadores-comparacion.md#comparación-estricta)
     - [Abstracta](./temario/03-operadores/operadores-comparacion.md#comparación-abstracta)
-- Operadores Lógicos
-    - Tablas de verdad
+- [Operadores Lógicos](./temario/03-operadores/operadores-logicos.md)
+    - [Operador AND](./temario/03-operadores/operadores-logicos.md#and)
+    - [Operador OR](./temario/03-operadores/operadores-logicos.md#or)
+    - [Operador NOT](./temario/03-operadores/operadores-logicos.md#not)
+    - [Tablas de verdad](./temario/03-operadores/operadores-logicos.md#tablas-de-verdad)
 - Operadores de Asignación
     - Asignación compuesta
 - Operador Ternario
