@@ -47,8 +47,8 @@
 - [Operadores de Asignación](./temario/03-operadores/operadores-asignacion.md)
     - [Asignación simple](./temario/03-operadores/operadores-asignacion.md#asignación-simple)
     - [Asignación compuesta](./temario/03-operadores/operadores-asignacion.md#asignación-compuesta)
-- Operador Ternario
-    - Sintaxis y uso
+- [Operador Ternario](./temario/03-operadores/operadores-ternarios.md)
+    - [Sintaxis y uso](./temario/03-operadores/operadores-ternarios.md)
 
 ### 4. **Estructuras de Control**
 - Condicionales (if, else, switch)
