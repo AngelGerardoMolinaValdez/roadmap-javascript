@@ -1,4 +1,4 @@
-# Operadores de Comparación en JavaScript 👩‍💻
+# Operadores Lógicos en JavaScript 👩‍💻
 Los operadores lógicos son símbolos especiales o palabras que conectan dos o más expresiones de manera tal que el resultado de la operación lógica depende del valor de las expresiones originales. Estos operadores son utilizados para realizar operaciones lógicas, y su resultado es siempre un valor booleano: true o false.
 
 ## AND (`&&`)

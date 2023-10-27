@@ -44,8 +44,9 @@
     - [Operador OR](./temario/03-operadores/operadores-logicos.md#or)
     - [Operador NOT](./temario/03-operadores/operadores-logicos.md#not)
     - [Tablas de verdad](./temario/03-operadores/operadores-logicos.md#tablas-de-verdad)
-- Operadores de Asignación
-    - Asignación compuesta
+- [Operadores de Asignación](./temario/03-operadores/operadores-asignacion.md)
+    - [Asignación simple](./temario/03-operadores/operadores-asignacion.md#asignación-simple)
+    - [Asignación compuesta](./temario/03-operadores/operadores-asignacion.md#asignación-compuesta)
 - Operador Ternario
     - Sintaxis y uso
 
