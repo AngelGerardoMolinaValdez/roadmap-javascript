@@ -47,12 +47,17 @@
 - [Operadores de Asignación](./temario/03-operadores/operadores-asignacion.md)
     - [Asignación simple](./temario/03-operadores/operadores-asignacion.md#asignación-simple)
     - [Asignación compuesta](./temario/03-operadores/operadores-asignacion.md#asignación-compuesta)
-- [Operador Ternario](./temario/03-operadores/operadores-ternarios.md)
     - [Sintaxis y uso](./temario/03-operadores/operadores-ternarios.md)
 
 ### 4. **Estructuras de Control**
-- Condicionales (if, else, switch)
-    - Condiciones compuestas y anidadas
+- [Introducción](./temario/04-estructuras-de-control/introduccion.md)
+    - [Teorema de Böhm-Jacopini](./temario/04-estructuras-de-control/introduccion.md#teorema-de-böhm-jacopini)
+- [Condicionales](./temario/04-estructuras-de-control/condicionales.md)
+    - [If/else](./temario/04-estructuras-de-control/condicionales.md#ifelse)
+    - [Switch](./temario/04-estructuras-de-control/condicionales.md#switch)
+    - [Condiciones compuestas y anidadas](./temario/04-estructuras-de-control/condicionales.md#condicionales-compuestas-y-anidadas)
+    - [Triangulo de la muerte](./temario/04-estructuras-de-control/condicionales.md#triangulo-de-la-muerte)
+    - [Clausulas de guarda](./temario/04-estructuras-de-control/condicionales.md#clausulas-de-guarda)
 - Bucles (for, while, do-while)
     - Control de flujo en bucles
 
