@@ -58,8 +58,12 @@
     - [Condiciones compuestas y anidadas](./temario/04-estructuras-de-control/condicionales.md#condicionales-compuestas-y-anidadas)
     - [Triangulo de la muerte](./temario/04-estructuras-de-control/condicionales.md#triangulo-de-la-muerte)
     - [Clausulas de guarda](./temario/04-estructuras-de-control/condicionales.md#clausulas-de-guarda)
-- Bucles (for, while, do-while)
-    - Control de flujo en bucles
+- [Bucles](./temario/04-estructuras-de-control/bucles.md)
+    - [for](./temario/04-estructuras-de-control/bucles.md#bucle-for)
+    - [while](./temario/04-estructuras-de-control/bucles.md#bucle-while)
+    - [do-while](./temario/04-estructuras-de-control/bucles.md#bucle-dowhile)
+    - [Control de flujo en bucles](./temario/04-estructuras-de-control/bucles.md#control-de-flujo-en-bucles)
+    - [Consideraciones al usar bucles](./temario/04-estructuras-de-control/bucles.md#consideraciones-al-usar-bucles)
 
 ### 5. **Funciones**
 - Declaración de Funciones
