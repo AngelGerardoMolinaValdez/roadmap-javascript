@@ -66,8 +66,12 @@
     - [Consideraciones al usar bucles](./temario/04-estructuras-de-control/bucles.md#consideraciones-al-usar-bucles)
 
 ### 5. **Funciones**
-- Declaración de Funciones
-    - Funciones nombradas y anónimas
+- [Introducción](./temario/05-funciones/introduccion.md)
+    - [¿Qué son las funciones?](./temario/05-funciones/introduccion.md#¿qué-son)
+    - [Características](./temario/05-funciones/introduccion.md#características)
+- [Declaración de Funciones](./temario/05-funciones/declaracion.md)
+    - [Funciones nombradas](./temario/05-funciones/declaracion.md#funciones-nombradas)
+    - [Funciones anónimas](./temario/05-funciones/declaracion.md#funciones-anónimas)
 - Expresiones de Función
     - Funciones IIFE (Immediately Invoked Function Expression)
 - Funciones Flecha
