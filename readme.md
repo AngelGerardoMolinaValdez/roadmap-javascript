@@ -72,8 +72,11 @@
 - [Declaración de Funciones](./temario/05-funciones/declaracion.md)
     - [Funciones nombradas](./temario/05-funciones/declaracion.md#funciones-nombradas)
     - [Funciones anónimas](./temario/05-funciones/declaracion.md#funciones-anónimas)
-- Expresiones de Función
-    - Funciones IIFE (Immediately Invoked Function Expression)
+- [Expresiones de Función](./temario/05-funciones/expresiones.md)
+    - [Sintaxis Básica](./temario/05-funciones/expresiones.md#sintaxis-básica)
+    - [Características](./temario/05-funciones/expresiones.md#características)
+    - [CallBacks](./temario/05-funciones/expresiones.md#uso-como-callbacks)
+    - [Funciones IIFE (Immediately Invoked Function Expression)](./temario/05-funciones/expresiones.md#iife-immediately-invoked-function-expression)
 - Funciones Flecha
     - Sintaxis y diferencias con funciones tradicionales
 - Parámetros y Argumentos
