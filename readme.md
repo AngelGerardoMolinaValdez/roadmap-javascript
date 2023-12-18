@@ -77,8 +77,9 @@
     - [Características](./temario/05-funciones/expresiones.md#características)
     - [CallBacks](./temario/05-funciones/expresiones.md#uso-como-callbacks)
     - [Funciones IIFE (Immediately Invoked Function Expression)](./temario/05-funciones/expresiones.md#iife-immediately-invoked-function-expression)
-- Funciones Flecha
-    - Sintaxis y diferencias con funciones tradicionales
+- [Funciones Flecha](./temario/05-funciones/funciones_flecha.md)
+    - [Sintaxis](./temario/05-funciones/funciones_flecha.md#1-sintaxis)
+    - [Diferencias con funciones tradicionales](./temario/05-funciones/funciones_flecha.md#diferencias-entre-función-flecha-y-tradicional)
 - Parámetros y Argumentos
     - Parámetros por defecto
     - Parámetros rest
