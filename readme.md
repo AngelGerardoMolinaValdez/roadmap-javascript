@@ -80,9 +80,12 @@
 - [Funciones Flecha](./temario/05-funciones/funciones_flecha.md)
     - [Sintaxis](./temario/05-funciones/funciones_flecha.md#1-sintaxis)
     - [Diferencias con funciones tradicionales](./temario/05-funciones/funciones_flecha.md#diferencias-entre-función-flecha-y-tradicional)
-- Parámetros y Argumentos
-    - Parámetros por defecto
-    - Parámetros rest
+- [Parámetros y Argumentos](./temario/05-funciones/parametros-argumentos.md)
+    - [Diferencias](./temario/05-funciones/parametros-argumentos.md#diferencias)
+    - [Parámetros obligatorios](./temario/05-funciones/parametros-argumentos.md#parámetros-obligatorios)
+    - [Parámetros por defecto](./temario/05-funciones/parametros-argumentos.md#parámetros-por-defecto)
+    - [Parámetros rest](./temario/05-funciones/parametros-argumentos.md#parámetros-rest)
+    - [Desestructuración en Parámetros](./temario/05-funciones/parametros-argumentos.md#desestructuración-en-parámetros)
 - Alcance y Cierre (Scope & Closure)
     - Alcance léxico
     - Cierres (Closures)
