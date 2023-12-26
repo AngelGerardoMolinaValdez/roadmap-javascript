@@ -86,9 +86,9 @@
     - [Parámetros por defecto](./temario/05-funciones/parametros-argumentos.md#parámetros-por-defecto)
     - [Parámetros rest](./temario/05-funciones/parametros-argumentos.md#parámetros-rest)
     - [Desestructuración en Parámetros](./temario/05-funciones/parametros-argumentos.md#desestructuración-en-parámetros)
-- Alcance y Cierre (Scope & Closure)
-    - Alcance léxico
-    - Cierres (Closures)
+- [Alcance y Cierre (Scope & Closure)](./temario/05-funciones/alcance-cierre.md)
+    - [Alcance léxico](./temario/05-funciones/alcance-cierre.md#alcance-scope)
+    - [Cierres (Closures)](./temario/05-funciones/alcance-cierre.md#cierre-closure)
 
 ### 6. **Objetos**
 - Creación de Objetos
