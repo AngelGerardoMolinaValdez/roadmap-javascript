@@ -91,9 +91,11 @@
     - [Cierres (Closures)](./temario/05-funciones/alcance-cierre.md#cierre-closure)
 
 ### 6. **Objetos**
-- Creación de Objetos
-    - Literal de objeto
-    - Constructor de objeto
+- [Creación de Objetos](./temario/06-objetos/creacion.md)
+    - [Literal](./temario/06-objetos/creacion.md#crear-con-literal-de-objeto)
+    - [Constructor](./temario/06-objetos/creacion.md#crear-objeto-con-el-constructor-new-object)
+    - [Funcional](./temario/06-objetos/creacion.md#crear-objeto-con-constructor-funcional)
+    - [Método `create`](./temario/06-objetos/creacion.md#crear-objeto-con-objectcreate)
 - Propiedades y Métodos
     - Acceso y modificación
 - Prototipos de Objetos
