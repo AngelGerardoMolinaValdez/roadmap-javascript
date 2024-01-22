@@ -96,8 +96,11 @@
     - [Constructor](./temario/06-objetos/creacion.md#crear-objeto-con-el-constructor-new-object)
     - [Funcional](./temario/06-objetos/creacion.md#crear-objeto-con-constructor-funcional)
     - [Método `create`](./temario/06-objetos/creacion.md#crear-objeto-con-objectcreate)
-- Propiedades y Métodos
-    - Acceso y modificación
+- [Propiedades y Métodos](./temario/06-objetos/propiedades-y-metodos.md)
+    - [Acceso y modificación](./temario/06-objetos/propiedades-y-metodos.md#acceso-y-modificación-de-propiedades)
+    - [Métodos](./temario/06-objetos/propiedades-y-metodos.md#métodos-de-los-objetos)
+    - [`this`](./temario/06-objetos/propiedades-y-metodos.md#this-en-métodos)
+    - [Métodos especiales](./temario/06-objetos/propiedades-y-metodos.md#métodos-especiales-getters-y-setters)
 - Prototipos de Objetos
     - Herencia prototípica
 - Herencia y Composición
