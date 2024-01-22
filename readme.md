@@ -101,8 +101,8 @@
     - [Métodos](./temario/06-objetos/propiedades-y-metodos.md#métodos-de-los-objetos)
     - [`this`](./temario/06-objetos/propiedades-y-metodos.md#this-en-métodos)
     - [Métodos especiales](./temario/06-objetos/propiedades-y-metodos.md#métodos-especiales-getters-y-setters)
-- Prototipos de Objetos
-    - Herencia prototípica
+- [Prototipos de Objetos](./temario/06-objetos/prototipos.md)
+    - [Herencia prototípica](./temario/06-objetos/prototipos.md#herencia-prototípica)
 - Herencia y Composición
     - Extensión de objetos
 
