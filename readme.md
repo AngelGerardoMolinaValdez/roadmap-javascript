@@ -103,8 +103,8 @@
     - [Métodos especiales](./temario/06-objetos/propiedades-y-metodos.md#métodos-especiales-getters-y-setters)
 - [Prototipos de Objetos](./temario/06-objetos/prototipos.md)
     - [Herencia prototípica](./temario/06-objetos/prototipos.md#herencia-prototípica)
-- Herencia y Composición
-    - Extensión de objetos
+- [Herencia y Composición](./temario/06-objetos/herencia-y-composicion.md)
+    - [Extensión de objetos](./temario/06-objetos/herencia-y-composicion.md)
 
 ### 7. **Arrays**
 - Creación y Manipulación de Arrays
