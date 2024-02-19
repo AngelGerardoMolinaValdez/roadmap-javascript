@@ -107,8 +107,10 @@
     - [Extensión de objetos](./temario/06-objetos/herencia-y-composicion.md)
 
 ### 7. **Arrays**
-- Creación y Manipulación de Arrays
-    - Métodos para agregar y eliminar elementos
+- [Creación y Manipulación de Arrays](./temario/07-arrays/creacion-eliminacion.md)
+    - [Métodos para agregar elementos](./temario/07-arrays/creacion-eliminacion.md#agregar-elementos)
+    - [Métodos para modificar elementos](./temario/07-arrays/creacion-eliminacion.md#modificar-elementos)
+    - [Métodos para eliminar elementos](./temario/07-arrays/creacion-eliminacion.md#eliminar-elementos)
 - Métodos de Array
     - Métodos de iteración
     - Métodos de transformación
