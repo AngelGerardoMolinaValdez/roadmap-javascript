@@ -111,9 +111,9 @@
     - [Métodos para agregar elementos](./temario/07-arrays/creacion-eliminacion.md#agregar-elementos)
     - [Métodos para modificar elementos](./temario/07-arrays/creacion-eliminacion.md#modificar-elementos)
     - [Métodos para eliminar elementos](./temario/07-arrays/creacion-eliminacion.md#eliminar-elementos)
-- Métodos de Array
-    - Métodos de iteración
-    - Métodos de transformación
+- [Métodos de Array](./temario/07-arrays/metodos.md)
+    - [Métodos de iteración](./temario/07-arrays/metodos.md#métodos-de-iteración)
+    - [Métodos de transformación](./temario/07-arrays/metodos.md#métodos-de-transformación)
 - Iteración sobre Arrays
     - Bucles for y for..of
 
