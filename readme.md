@@ -114,8 +114,9 @@
 - [Métodos de Array](./temario/07-arrays/metodos.md)
     - [Métodos de iteración](./temario/07-arrays/metodos.md#métodos-de-iteración)
     - [Métodos de transformación](./temario/07-arrays/metodos.md#métodos-de-transformación)
-- Iteración sobre Arrays
-    - Bucles for y for..of
+- [Iteración sobre Arrays](./temario/07-arrays/iteracion.md)
+    - [Bucle for y for..of](./temario/07-arrays/iteracion.md#bucle-for-tradicional)
+    - [Bucle for..of](./temario/07-arrays/iteracion.md#bucle-forof)
 
 ### 8. **Errores y Depuración**
 - Manejo de Errores (try, catch, finally)
